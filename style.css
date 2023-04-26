@@ -1,0 +1,20 @@
+body{
+    background-color: whitesmoke;
+}
+
+.header{
+    height: 400px;
+    background-image: url('./Images/Image20230425120042.jpg');
+    background-position: center;
+}
+
+
+h1 {
+     font-size: 100px;
+     text-align: center;
+}
+
+h2{
+    font-size: 20px;
+    text-align: left;
+} 
